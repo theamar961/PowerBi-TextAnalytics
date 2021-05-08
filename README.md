@@ -10,7 +10,7 @@
     </li>
     <li><a href="#agenda">Roadmap</a></li>
     <li><a href="#screenshots">Contributing</a></li>
-    <li><a href="#Contact">Acknowledgements</a></li>
+
   </ol>
 </details>
 
@@ -43,12 +43,15 @@ Use Case : Can be specific to a give brand, understand user sentiment, how do th
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-
+<img src="Sentiment - View.png" alt="Sentiment View">
 
 3. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-5. Push to the Branch (`git push origin feature/AmazingFeature`)
-6. Open a Pull Request
+
+<img src="Geographic - View.png" alt="Geographic View">
+
+5. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+6. Push to the Branch (`git push origin feature/AmazingFeature`)
+7. Open a Pull Request
 
 
 
