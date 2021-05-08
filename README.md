@@ -21,8 +21,7 @@
 ## About The Project
 
 I was always fascinated by the amount of data social media generates on a daily basis. Utilizing this data can add quite interesting use-cases. I wanted to explore data from the social media website Twitter and analyze user tweets. Being able to showcase textual data in an intuitive and consumable manner can be very powerful while performing exploratory data analysis. In this repo, I have extracted user tweets based on certain hashtags. 
-<br>
-Visualizing textual information requires careful processing and cleaning of data. I have not covered the process of how I have generated the dataset used in these visuals, although I hope to cover this in the coming weeks. Repos concerning some Natural Language Processing modules/tools I have developed is something I hope to put across.
+
 
 
 ### Built With
@@ -75,7 +74,8 @@ Filter tweets by keyword and country of residence <br>
 <img src="Geographic - View.PNG" alt="Geographic View">
 
 
-
+<br>
+Visualizing textual information requires careful processing and cleaning of data. I have not covered the process of how I have generated the dataset used in these visuals, although I hope to cover this in the coming weeks. Repos concerning some Natural Language Processing modules/tools I have developed is something I hope to put across.
 
 
 
