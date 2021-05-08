@@ -45,6 +45,8 @@ Contributions are what make the open source community such an amazing place to b
 1. Fork the Project
 <img src="Sentiment - View.png" alt="Sentiment View">
 
+![LDA clustered topics](Sentiment - View.PNG)
+
 3. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 
 <img src="Geographic - View.png" alt="Geographic View">
