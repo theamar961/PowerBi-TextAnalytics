@@ -9,6 +9,7 @@
       </ul>
     </li>
     <li><a href="#agenda">Roadmap</a></li>
+     <li><a href="#use-cases">Use Cases</a></li>
     <li><a href="#screenshots">Contributing</a></li>
 
   </ol>
@@ -20,40 +21,60 @@
 ## About The Project
 
 I was always fascinated by the amount of data social media generates on a daily basis. Utilizing this data can add quite interesting use-cases. I wanted to explore data from the social media website Twitter and analyze user tweets. Being able to showcase textual data in an intuitive and consumable manner can be very powerful while performing exploratory data analysis. In this repo, I have extracted user tweets based on certain hashtags. 
+<br>
+Visualizing textual information requires careful processing and cleaning of data. I have not covered the process of how I have generated the dataset used in these visuals, although I hope to cover this in the coming weeks. Repos concerning some Natural Language Processing modules/tools I have developed is something I hope to put across.
 
 
 ### Built With
 
-* [PowerBi]()
-* [Python]()
-* [Twitterscraper, Twint, Tweety, Twitter API]()
+* PowerBi
+* Python 3.7
+* Twitterscraper, Twint, Tweety, Twitter API
 
+<h4>Dataset creation</h4> 
+NLP component - Data Preprocessing ( Stemming, Tokenization, StopWords, Lemmatizaion), Dependency Parsing, Document Similarity, Sentiment Analysis
 
 <!-- Agenda -->
 ## Agenda
 
-Time period : 2 weeks
-Hashtags Utilized : #Apple #Tesla #Amazon #Facebook 
-Use Case : Can be specific to a give brand, understand user sentiment, how do their customers feel, what is the social status of a brand on social media?
+Time period : 2 weeks </br>
+Hashtags Utilized : #Apple #Tesla #Amazon #Facebook </br>
+
+<!-- Use Cases -->
+## Use Cases 
+Can be specific to a given brand <br>
+Understand customer sentiment about a brand <br> 
+Highlight the keywords/problems faced by customers <br>
+How engaging or big is the social media presence of a brand </br>
+Where are customers from? <br>
+When do customers engage with social media <br>
+They are endless :) <br>
+
 
 
 <!-- Screenshots -->
 ## Screenshots
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1. Fork the Project
-<img src="Sentiment - View.png" alt="Sentiment View">
+<h3>Sentiment View</h3>
 
-![LDA clustered topics](Sentiment - View.PNG)
+Tweet distribution across the last couple of days <br>
+Sentiment of each tweet <br>
+When are users tweeting during the day <br>
+<br>
+<img src="Sentiment - View.PNG" alt="Sentiment View">
 
-3. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 
-<img src="Geographic - View.png" alt="Geographic View">
 
-5. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-6. Push to the Branch (`git push origin feature/AmazingFeature`)
-7. Open a Pull Request
+<h3>Geographic View</h3>
+
+Which country do the users belong to? <br>
+What are some of the keywords being used frequnetly? <br>
+Filter tweets by keyword and country of residence <br>
+<br>
+<img src="Geographic - View.PNG" alt="Geographic View">
+
+
 
 
 
